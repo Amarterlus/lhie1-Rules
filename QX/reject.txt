@@ -110,7 +110,7 @@ DOMAIN-SUFFIX,x.da.hunantv.com,REJECT
 DOMAIN-SUFFIX,x.da.mgtv.com,REJECT
 DOMAIN-SUFFIX,x1.da.hunantv.com,REJECT
 DOMAIN-SUFFIX,y.da.hunantv.com,REJECT
-DOMAIN-SUFFIX,y.da.mgtv.com,REJEC
+DOMAIN-SUFFIX,y.da.mgtv.com,REJECT
 DOMAIN-SUFFIX,1.letvlive.com,REJECT
 DOMAIN-SUFFIX,2.letvlive.com,REJECT
 DOMAIN-SUFFIX,ads1.lfengmobile.com,REJECT
@@ -132,14 +132,14 @@ DOMAIN-SUFFIX,s.zampdsp.com,REJECT
 DOMAIN-SUFFIX,stat.letv.com,REJECT
 DOMAIN-SUFFIX,static.app.m.letv.com,REJECT
 DOMAIN-SUFFIX,webp2p.letv.com,REJECT
-DOMAIN-SUFFIX,zamplus.com,REJEC
+DOMAIN-SUFFIX,zamplus.com,REJECT
 DOMAIN-SUFFIX,azabu-u.ac.jp,REJECT
 DOMAIN-SUFFIX,couchcoaster.jp,REJECT
 DOMAIN-SUFFIX,delivery.dmkt-sp.jp,REJECT
 DOMAIN-SUFFIX,ehg-youtube.hitbox.com,REJECT
 DOMAIN-SUFFIX,m-78.jp,REJECT
 DOMAIN-SUFFIX,nichibenren.or.jp,REJECT
-DOMAIN-SUFFIX,nicorette.co.kr,REJEC
+DOMAIN-SUFFIX,nicorette.co.kr,REJECT
 DOMAIN-SUFFIX,adnet.sohu.com,REJECT
 DOMAIN-SUFFIX,aty.sohu.com,REJECT
 DOMAIN-SUFFIX,data.vod.itc.cn,REJECT
@@ -151,7 +151,7 @@ DOMAIN-SUFFIX,inte.sogou.com,REJECT
 DOMAIN-SUFFIX,inte.sogoucdn.com,REJECT
 DOMAIN-SUFFIX,lu.sogoucdn.com,REJECT
 DOMAIN-SUFFIX,theta.sogoucdn.com,REJECT
-DOMAIN-SUFFIX,uranus.sogou.com,REJEC
+DOMAIN-SUFFIX,uranus.sogou.com,REJECT
 DOMAIN-SUFFIX,afp.pplive.com,REJECT
 DOMAIN-SUFFIX,app.aplus.pptv.com,REJECT
 DOMAIN-SUFFIX,as.aplus.pptv.com,REJECT
@@ -165,7 +165,7 @@ DOMAIN-SUFFIX,deliver.ifeng.com,REJECT
 DOMAIN-SUFFIX,hxjs.tool.hexun.com,REJECT
 DOMAIN-SUFFIX,hxsame.hexun.com,REJECT
 DOMAIN-SUFFIX,itv.hexun.com,REJECT
-DOMAIN-SUFFIX,utrack.hexun.com,REJEC
+DOMAIN-SUFFIX,utrack.hexun.com,REJECT
 DOMAIN-SUFFIX,ad.cmvideo.cn,REJECT
 DOMAIN-SUFFIX,atm.cp31.ott.cibntv.net,REJECT
 DOMAIN-SUFFIX,aty.cp45.ott.cibntv.net,REJECT
