@@ -205,9 +205,9 @@ user-agent,Nicegram*,AUTO,resolve-on-proxy
 user-agent,Steam*,AUTO,resolve-on-proxy
 geoip,cn,direct
 geoip,private,direct
-IP-CIDR,10.0.0.0/8,direct,no-resolve
-IP-CIDR,17.0.0.0/8,direct,no-resolve
-IP-CIDR,100.64.0.0/10,direct,no-resolve
-IP-CIDR,127.0.0.0/8,direct,no-resolve
-IP-CIDR,172.16.0.0/12,direct,no-resolve
-IP-CIDR,192.168.0.0/16,direct,no-resolve
+ip-cidr,10.0.0.0/8,direct,no-resolve
+ip-cidr,17.0.0.0/8,direct,no-resolve
+ip-cidr,100.64.0.0/10,direct,no-resolve
+ip-cidr,127.0.0.0/8,direct,no-resolve
+ip-cidr,172.16.0.0/12,direct,no-resolve
+ip-cidr,192.168.0.0/16,direct,no-resolve
