@@ -204,7 +204,6 @@ user-agent,CodeHub*,proxy,resolve-on-proxy
 user-agent,Nicegram*,proxy,resolve-on-proxy
 user-agent,Steam*,proxy,resolve-on-proxy
 geoip,cn,direct
-geoip,private,direct
 ip-cidr,10.0.0.0/8,direct,no-resolve
 ip-cidr,17.0.0.0/8,direct,no-resolve
 ip-cidr,100.64.0.0/10,direct,no-resolve
