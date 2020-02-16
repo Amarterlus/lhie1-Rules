@@ -48,6 +48,20 @@ host-keyword,advertis,reject
 host-keyword,cnzz,reject
 host-keyword,inmobi,reject
 host-keyword,umeng,reject
+
+host,ipip.net,proxy,resolve-on-proxy
+host-suffix,fbcdn.net,proxy,resolve-on-proxy
+host-suffix,gstatic.com,proxy,resolve-on-proxy
+host-suffix,rockstargames.com,proxy,resolve-on-proxy
+host-suffix,ssrshare.com,proxy,resolve-on-proxy
+host-keyword,instagram,proxy,resolve-on-proxy
+host-keyword,github,proxy,resolve-on-proxy
+host-keyword,google,proxy,resolve-on-proxy
+user-agent,Ashpalt 9*,proxy,resolve-on-proxy
+user-agent,CodeHub*,proxy,resolve-on-proxy
+user-agent,Nicegram*,proxy,resolve-on-proxy
+user-agent,Steam*,proxy,resolve-on-proxy
+
 host,16kong.top,direct
 host,oneclient.sfx.ms,direct
 host-suffix,aaplimg.com,direct
@@ -123,7 +137,6 @@ host-suffix,weather.com,direct
 host-suffix,woopra.com,direct
 host-suffix,workflow.is,direct
 host-suffix,wshtgame.com,direct
-host-suffix,xn--xk5a.net,direct
 host-suffix,zimuzu.tv,direct
 host-suffix,zsdfm.com,direct
 host-keyword,adguard,direct
@@ -154,6 +167,7 @@ host-keyword,torrent,direct
 host-keyword,v2ex,direct
 host-keyword,whatsmall,direct
 host-keyword,yandex,direct
+host-keyword,geosite:cn,direct
 user-agent,AppStore*,direct
 user-agent,AR_XMStatusCN*,direct
 user-agent,Authy*,direct
@@ -191,18 +205,6 @@ user-agent,SyncedDefaults*,direct
 user-agent,trustd*,direct
 user-agent,?arsecd*,direct
 user-agent,$%7BPRODUCT*,direct
-host,ip.cn,proxy,resolve-on-proxy
-host-suffix,fbcdn.net,proxy,resolve-on-proxy
-host-suffix,gstatic.com,proxy,resolve-on-proxy
-host-suffix,rockstargames.com,proxy,resolve-on-proxy
-host-suffix,ssrshare.com,proxy,resolve-on-proxy
-host-keyword,instagram,proxy,resolve-on-proxy
-host-keyword,github,proxy,resolve-on-proxy
-host-keyword,google,proxy,resolve-on-proxy
-user-agent,Ashpalt 9*,proxy,resolve-on-proxy
-user-agent,CodeHub*,proxy,resolve-on-proxy
-user-agent,Nicegram*,proxy,resolve-on-proxy
-user-agent,Steam*,proxy,resolve-on-proxy
 geoip,cn,direct
 ip-cidr,10.0.0.0/8,direct,no-resolve
 ip-cidr,17.0.0.0/8,direct,no-resolve
