@@ -57,9 +57,11 @@ host-suffix,ssrshare.com,proxy,resolve-on-proxy
 host-keyword,instagram,proxy,resolve-on-proxy
 host-keyword,github,proxy,resolve-on-proxy
 host-keyword,google,proxy,resolve-on-proxy
+host-keyword,google,sharepoint,resolve-on-proxy
 user-agent,Ashpalt 9*,proxy,resolve-on-proxy
 user-agent,CodeHub*,proxy,resolve-on-proxy
 user-agent,Nicegram*,proxy,resolve-on-proxy
+user-agent,OneDrive*,proxy,resolve-on-proxy
 user-agent,Steam*,proxy,resolve-on-proxy
 
 host,16kong.top,direct
@@ -160,7 +162,6 @@ host-keyword,netease,direct
 host-keyword,onedrive,direct
 host-keyword,paypal,direct
 host-keyword,playstation,direct
-host-keyword,sharepoint,direct
 host-keyword,sonyentertainmentnetwork,direct
 host-keyword,teamviewer,direct
 host-keyword,torrent,direct
