@@ -57,7 +57,8 @@ host-suffix,ssrshare.com,proxy,resolve-on-proxy
 host-keyword,instagram,proxy,resolve-on-proxy
 host-keyword,github,proxy,resolve-on-proxy
 host-keyword,google,proxy,resolve-on-proxy
-host-keyword,google,sharepoint,resolve-on-proxy
+host-keyword,onedrive,proxy,resolve-on-proxy
+host-keyword,sharepoint,proxy,resolve-on-proxy
 user-agent,Ashpalt 9*,proxy,resolve-on-proxy
 user-agent,CodeHub*,proxy,resolve-on-proxy
 user-agent,Nicegram*,proxy,resolve-on-proxy
@@ -159,7 +160,6 @@ host-keyword,mega,direct
 host-keyword,microsoft,direct
 host-keyword,nintendo,direct
 host-keyword,netease,direct
-host-keyword,onedrive,direct
 host-keyword,paypal,direct
 host-keyword,playstation,direct
 host-keyword,sonyentertainmentnetwork,direct
