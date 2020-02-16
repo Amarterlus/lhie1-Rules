@@ -6,6 +6,6 @@ Kitsunebi：
 
 Shadowrocket：
 
-Quantumult X：配置下载initial.conf，其余的在各个引用里直接同步
+Quantumult X：配置下载initialx.conf，其余的在各个引用里直接同步
 
 Surge：用Shadowrocket.conf
