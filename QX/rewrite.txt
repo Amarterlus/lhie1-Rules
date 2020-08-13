@@ -71,7 +71,7 @@
 ^https?://r1.ykimg.com/\w{30,35}.jpg - reject
 ^https?://r1.ykimg.com/material/.+/\d{3,4}-\d{4} - reject
 ^https?://r1.ykimg.com/material/.+/\d{6}/\d{4}/ - reject
-^https?://ups.youku.com/(.*)needad=1& ^https?://ups.youku.com/$1needad=0& 302
+^https?://ups.youku.com/(.*)needad=1& url 302 ^https?://ups.youku.com/$1needad=0&
 ^https?://vali.cp31.ott.cibntv.net/youku - reject
 ^https?://.+.127.net/ad - reject
 ^https?://.+/eapi/(ad|evenet|log)/ - reject
@@ -255,7 +255,7 @@ http?://www.tsytv.com.cn/api/app/ios/ads - reject
 ^https?://dl.app.gtja.com/dzswem/kvController/ - reject
 ^https?://dl.app.gtja.com/operation/config/startupConfig.json - reject
 ^https?://api.laifeng.com/v1/start/ads - reject
-^https?://(.*)\.snssdk\.com/aweme/v2/ https://$1.snssdk.com/aweme/v1/ 302
+^https?://(.*)\.snssdk\.com/aweme/v2/ url 302 https://$1.snssdk.com/aweme/v1/
 ^https?://.+.pstatp.com/img/ad - reject
 ^https?://.+.snssdk.com/api/ad/ - reject
 ^https?://aweme.snssdk.com/aweme/v1/aweme/stats/ - reject
