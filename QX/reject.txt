@@ -33,8 +33,6 @@ HOST-SUFFIX,store.iqiyi.com,REJECT
 HOST-SUFFIX,t7z.cupid.iqiyi.com,REJECT
 HOST-SUFFIX,tracker.sns.iqiyi.com,REJECT
 HOST-SUFFIX,yuedu.iqiyi.com,REJECT
-URL-REGEX,https?://.+/videos/other/.+,REJECT
-URL-REGEX,https?://paopao\w?.qiyipic.com,REJECT
 IP-CIDR,101.227.97.240/32,REJECT,no-resolve
 IP-CIDR,101.227.200.11/32,REJECT,no-resolve
 IP-CIDR,101.227.200.28/32,REJECT,no-resolve
@@ -97,7 +95,6 @@ IP-CIDR,223.87.182.101/32,REJECT,no-resolve
 IP-CIDR,223.87.182.102/32,REJECT,no-resolve
 IP-CIDR,223.87.182.11/32,REJECT,no-resolve
 IP-CIDR,223.87.182.52/32,REJECT,no-resolve
-URL-REGEX,https?://.+.atm.youku.com,REJECT
 HOST-SUFFIX,ads-api.videojj.com,REJECT
 HOST-SUFFIX,cdn.cmop.mgtv.com,REJECT
 HOST-SUFFIX,click.hunantv.com,REJECT
@@ -182,13 +179,11 @@ HOST-SUFFIX,jp.as.pptv.com,REJECT
 HOST-SUFFIX,pp2.pptv.com,REJECT
 HOST-SUFFIX,stat.pptv.com,REJECT
 HOST-SUFFIX,static.g.pptv.com,REJECT
-URL-REGEX,https?://img\w.g.pptv.com,REJECT
 HOST-SUFFIX,deliver.ifeng.com,REJECT
 HOST-SUFFIX,hxjs.tool.hexun.com,REJECT
 HOST-SUFFIX,hxsame.hexun.com,REJECT
 HOST-SUFFIX,itv.hexun.com,REJECT
 HOST-SUFFIX,utrack.hexun.com,REJECT
-URL-REGEX,https?://h\w{2}.hxsame.hexun.com,REJECT
 HOST-SUFFIX,ad.cmvideo.cn,REJECT
 HOST-SUFFIX,atm.cp31.ott.cibntv.net,REJECT
 HOST-SUFFIX,aty.cp45.ott.cibntv.net,REJECT
