@@ -32,7 +32,6 @@ HOST-SUFFIX,pingma.qq.com,REJECT
 HOST-SUFFIX,pos.baidu.com,REJECT
 HOST-SUFFIX,pstatp.com,REJECT
 HOST-SUFFIX,qchannel01.cn,REJECT
-HOST-SUFFIX,sleepcycle.com,REJECT
 HOST-SUFFIX,snssdk.com,REJECT
 HOST-SUFFIX,supersonicads.com,REJECT
 HOST-SUFFIX,tanx.com,REJECT
@@ -126,6 +125,7 @@ HOST-SUFFIX,powera.com,DIRECT
 HOST-SUFFIX,pubnub.com,DIRECT
 HOST-SUFFIX,qlink.to,DIRECT
 HOST-SUFFIX,qnap.com,DIRECT
+HOST-SUFFIX,sleepcycle.com,DIRECT
 HOST-SUFFIX,speedtest.net,DIRECT
 HOST-SUFFIX,ssrnode.tk,DIRECT
 HOST-SUFFIX,staysorted.com,DIRECT
