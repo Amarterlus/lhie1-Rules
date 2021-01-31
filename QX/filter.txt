@@ -84,4 +84,5 @@ IP-CIDR,91.108.0.0/16,PROXY,no-resolve
 IP-CIDR,109.239.140.0/24,PROXY,no-resolve
 IP-CIDR,149.154.160.0/20,PROXY,no-resolve
 
+DOMAIN-SUFFIX,globalsign.com,DIRECT
 USER-AGENT,lrsunity*,DIRECT
