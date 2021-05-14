@@ -9,3 +9,5 @@ Shadowrocket：REJECT更新【https://anti-ad.net/surge.txt】
 Quantumult X：配置下载initialx.conf，其余的在各个引用里直接同步
 
 Surge：用Shadowrocket.conf
+
+注意unblock里的域名和ip
