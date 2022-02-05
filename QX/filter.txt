@@ -59,11 +59,13 @@ DOMAIN-SUFFIX,goo.gl,PROXY
 DOMAIN-SUFFIX,gstatic.com,PROXY
 DOMAIN-SUFFIX,ishowsapp.com,PROXY
 DOMAIN-SUFFIX,mail.com,PROXY
+DOMAIN-SUFFIX,playstation.com,PROXY
 DOMAIN-SUFFIX,pokemon-home.com,PROXY
 DOMAIN-SUFFIX,pokemon-unitepgame.com,PROXY
 DOMAIN-SUFFIX,redd.it,PROXY
 DOMAIN-SUFFIX,rlcdn.com,PROXY
 DOMAIN-SUFFIX,rockstargames.com,PROXY
+DOMAIN-SUFFIX,sonyentertainmentnetwork.com,PROXY
 DOMAIN-SUFFIX,ssrshare.com,PROXY
 DOMAIN-SUFFIX,steamcommunity.com,PROXY
 DOMAIN-SUFFIX,steampowered.com,PROXY
